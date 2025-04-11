@@ -1,5 +1,9 @@
+import com.faviomunayco.utils.CosumeApi;
+import com.faviomunayco.utils.MenuPrincipal;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        MenuPrincipal instanciaMenu = new MenuPrincipal();
+        instanciaMenu.mostrarMenu();
     }
 }

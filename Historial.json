@@ -1,0 +1,29 @@
+[
+  {
+    "result": "success",
+    "base_code": "USD",
+    "target_code": "ARS",
+    "montoAConvertir": 1.0,
+    "conversion_rate": 1077.38,
+    "conversion_result": 1077.38,
+    "marcaDeTiempo": "2025-04-11T04:15:18.140259400Z"
+  },
+  {
+    "result": "success",
+    "base_code": "USD",
+    "target_code": "ARS",
+    "montoAConvertir": 15.0,
+    "conversion_rate": 1077.38,
+    "conversion_result": 16160.7,
+    "marcaDeTiempo": "2025-04-11T04:18:38.891037300Z"
+  },
+  {
+    "result": "success",
+    "base_code": "USD",
+    "target_code": "COP",
+    "montoAConvertir": 10.0,
+    "conversion_rate": 4347.3861,
+    "conversion_result": 43473.861,
+    "marcaDeTiempo": "2025-04-11T04:19:02.305313700Z"
+  }
+]
